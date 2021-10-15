@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 10/14/2016 10:52:04 AM
+
+BeginCmp
+TimeStamp = /57FDF650;
+Reference = C1;
+ValeurCmp = C_CAP_PWR;
+IdModule  = PAA_THOLE_2PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDF608;
+Reference = C2;
+ValeurCmp = C_CAP_PWR;
+IdModule  = PAA_CAP_PWR_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDF76A;
+Reference = C3;
+ValeurCmp = C_SM1206;
+IdModule  = PAA_SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDF777;
+Reference = C4;
+ValeurCmp = C_SM1206;
+IdModule  = PAA_SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDF77D;
+Reference = C5;
+ValeurCmp = C_SM1206;
+IdModule  = PAA_SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDF783;
+Reference = C6;
+ValeurCmp = C_SM1206;
+IdModule  = PAA_SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDEAB3;
+Reference = D1;
+ValeurCmp = DIODE_SOD128;
+IdModule  = PAA_S0D128;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDFA14;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = PAA_THOLE_2PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDFA05;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = PAA_THOLE_2PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDEC5F;
+Reference = IC1;
+ValeurCmp = MCU_DSP33EV32_TQFP44;
+IdModule  = PAA_TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDEBC3;
+Reference = U1;
+ValeurCmp = REG_5V_UA78M05_SOT223;
+IdModule  = PAA_SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDF925;
+Reference = U2;
+ValeurCmp = SWITCH_AUIPS6011_DPAK5;
+IdModule  = PAA_DPAK5;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDFC65;
+Reference = U3;
+ValeurCmp = SWITCH_AUIPS6011_DPAK5;
+IdModule  = PAA_DPAK5;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDF83A;
+Reference = U4;
+ValeurCmp = RESISTOR_ARRAY_4800P_SO16MED;
+IdModule  = PAA_SO16_MEDIUM;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDF847;
+Reference = U5;
+ValeurCmp = RESISTOR_ARRAY_4800P_SO16MED;
+IdModule  = PAA_SO16_MEDIUM;
+EndCmp
+
+BeginCmp
+TimeStamp = /574D502C;
+Reference = X1;
+ValeurCmp = PAD;
+IdModule  = PAA_STENCIL_INDEX;
+EndCmp
+
+BeginCmp
+TimeStamp = /574D5039;
+Reference = X2;
+ValeurCmp = PAD;
+IdModule  = PAA_STENCIL_INDEX;
+EndCmp
+
+BeginCmp
+TimeStamp = /57FDEAA4;
+Reference = X3;
+ValeurCmp = CON_12PIN;
+IdModule  = PAA_CONN_MX120_12PIN;
+EndCmp
+
+EndListe

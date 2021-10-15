@@ -1,0 +1,59 @@
+EESchema-DOCLIB  Version 2.0  Date: 6/29/2020 12:13:51 PM
+#
+$CMP CHECK_TYPE1
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP MOTOR_TYPE01
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP ORIFICE
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP POINT
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP PUMP_TYPE01
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP RAM_TYPE01
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP TANK
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP VALVE_TYPE4
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP VALVE_TYPE4B
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP VALVE_TYPE5
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP VALVE_TYPE6
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP VALVE_TYPE7
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP VALVE_TYPE7B
+D Condensateur non polarise
+$ENDCMP
+#
+$CMP VALVE_TYPE7C
+D Condensateur non polarise
+$ENDCMP
+#
+#End Doc Library
